@@ -1,5 +1,5 @@
 # Created React App with Firebase Authentication, Bootstrap & React router.
-##Live Link: https://authentication-firebase-react.web.app/login
+Live Link: https://authentication-firebase-react.web.app/login
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
